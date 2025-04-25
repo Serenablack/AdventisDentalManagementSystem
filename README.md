@@ -99,7 +99,7 @@ cd adventis-dental-system
 
 3. Build the project:
 ```
-mvn clean install
+.\gradlew clean build
 ```
 
 4. Configure your database connection in `application.properties`
