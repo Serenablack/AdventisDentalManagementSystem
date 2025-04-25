@@ -77,6 +77,10 @@ The system is built around the following core entities:
 - Inventory management for dental supplies
 - Advanced analytics and business intelligence
 
+  
+### Link to Postman apis 
+  https://.postman.co/workspace/Personal-Workspace~6ae3f19e-9f91-4dd2-992a-4b4ca7ec382e/collection/22352850-07f68781-a865-4921-ba11-3cc969368b8c?action=share&creator=22352850
+
 ## Getting Started
 
 ### Prerequisites
