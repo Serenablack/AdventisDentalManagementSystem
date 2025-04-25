@@ -55,7 +55,7 @@ The system is built around the following core entities:
 5. As an office manager, I want to track payment status of appointments so that I can manage finances.
 6. As an office manager, I want to ensure a dentist doesn't have more than 5 appointments in a week to prevent overbooking.
 7. As an office manager, I want to be prevented from scheduling appointments for patients with outstanding balances so that payment issues are resolved first.
-8. 
+
 ## Project Scope
 
 ### In Scope
@@ -119,11 +119,6 @@ cd adventis-dental-system
 - User role implementation
 - Basic reporting
 
-### Phase 3: Advanced Features
-- Complete reporting system
-- Data analytics
-- User experience enhancements
-
 ## Contributing
 
 1. Fork the repository
@@ -140,17 +135,27 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Developed for dental practices seeking efficient management solutions
 - Inspired by modern healthcare management systems
-- Special thanks to all contributors and testers
+- Special thanks to the professors: Professor Obinna Kalu and Professor Bright Varghese
+- 
+![ER diagram](https://github.com/user-attachments/assets/67d555d5-078e-4801-8ee9-73a9af0c5132)
+![Screenshot (1033)](https://github.com/user-attachments/assets/24f5e875-ade4-4f9d-8418-9dfbeb2a5ae5)
 
 
-![ER diagram.png](..%2FER%20diagram.png)
+![Screenshot (1032)](https://github.com/user-attachments/assets/88451d1f-86e4-4471-a5f5-5544995c84a1)
+![Screenshot (1029)](https://github.com/user-attachments/assets/70cfaf45-ab05-49f9-8db3-f7997e5462c3)
 
-![Screenshot (1027).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%281027%29.png)
+![Screenshot (1028)](https://github.com/user-attachments/assets/e4a3236a-220c-42a6-8220-277506cff07f)
+![Screenshot (1027)](https://github.com/user-attachments/assets/87324964-b48d-4053-a5e0-05a3ac945217)
 
-![Screenshot (1026).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%281026%29.png)
-![Screenshot (1025).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%281025%29.png)
-![Screenshot (1024).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%281024%29.png)
-![Screenshot (1023).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%281023%29.png)
-![Screenshot (1022).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%281022%29.png)
 
-![Screenshot (1029).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%281029%29.png)
+![Screenshot (1026)](https://github.com/user-attachments/assets/dd382db9-7d9a-42d0-92a0-cdc1e05a58d5)
+
+![Screenshot (1025)](https://github.com/user-attachments/assets/be77961a-5a94-49d5-a082-d926e07e1c52)
+
+![Screenshot (1024)](https://github.com/user-attachments/assets/ca2687f3-bdaf-49ce-8d77-034cdd3014b8)
+
+![Screenshot (1023)](https://github.com/user-attachments/assets/0bd90d41-d0ee-4abc-87ef-6ba50d94527e)
+
+![Screenshot (1022)](https://github.com/user-attachments/assets/33b5294b-718a-4c44-9abc-36be3398842a)
+
+
