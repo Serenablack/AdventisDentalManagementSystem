@@ -130,6 +130,9 @@ cd adventis-dental-system
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+https://adventisdentalmgmtsystem-e3a7hnbxh6bhhccg.canadacentral-01.azurewebsites.net
+
+
 
 ## License
 
@@ -150,6 +153,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ![Screenshot (1028)](https://github.com/user-attachments/assets/e4a3236a-220c-42a6-8220-277506cff07f)
 ![Screenshot (1027)](https://github.com/user-attachments/assets/87324964-b48d-4053-a5e0-05a3ac945217)
+![Screenshot (1041)](https://github.com/user-attachments/assets/88bb0adf-cb95-4cde-8451-1b595db65cbc)
 
 
 ![Screenshot (1026)](https://github.com/user-attachments/assets/dd382db9-7d9a-42d0-92a0-cdc1e05a58d5)
@@ -157,6 +161,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ![Screenshot (1025)](https://github.com/user-attachments/assets/be77961a-5a94-49d5-a082-d926e07e1c52)
 
 ![Screenshot (1024)](https://github.com/user-attachments/assets/ca2687f3-bdaf-49ce-8d77-034cdd3014b8)
+
+![Screenshot (1040)](https://github.com/user-attachments/assets/eaf1f8bc-d4bd-4503-8b8d-dae059621056)
+![Screenshot (1039)](https://github.com/user-attachments/assets/2b141168-7913-4f6d-9871-80a89cb5ef0c)
+![Screenshot (1037)](https://github.com/user-attachments/assets/70998980-024b-489f-8321-99de4da0fab8)
+
+
 
 ![Screenshot (1023)](https://github.com/user-attachments/assets/0bd90d41-d0ee-4abc-87ef-6ba50d94527e)
 
